@@ -16,7 +16,7 @@ for i in n1:
 flames = ['F', 'L', 'A', 'M', 'E', 'S']
 
 flam_len = len(flames)
-t_flames = flames*full_len
+t_flames = flames*full_len*2
 
 # print(t_flames)
 while len(t_flames) >= 1:
