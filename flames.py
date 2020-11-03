@@ -11,7 +11,8 @@ for i in n1:
         if i == j:
             full_len = full_len-2
             lst_n2.remove(j)
-            pass
+            break
+        pass
 # print(full_len)
 flames = ['F', 'L', 'A', 'M', 'E', 'S']
 
